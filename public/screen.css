@@ -4,10 +4,12 @@ html {
 
 body {
     margin: 0;
-    font: 16px / 1 sans-serif;
+    font: 13px helvetica,arial,freesans,clean,sans-serif;
+    font-weight: bold;
 }
 
-.imglogo {padding:0.5em;
+.imglogo {
+    padding: 0.5em;
 }
 
 header {
@@ -41,8 +43,8 @@ ul.topnav {
     justify-content: flex-end;
 }
 
-li{ padding: 0.9em;
-
+li {
+    padding: 0.9em;
 }
 
 a:link {
@@ -65,3 +67,58 @@ a:hover {
 a:active {
     color: cornflowerblue;
 }
+
+.imagebox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+div.cats {
+    max-height: 424px;
+    max-width: 424px;
+}
+
+div.footer {
+    height: 630px;
+    width: 426px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+div.text {
+}
+
+figure {
+    margin: 0;
+    padding-top: 0.2em;
+}
+
+.figureimg {
+    border: 1px solid #cacaca;
+    padding: 0.5em;
+}
+
+.captiondiv {
+    display: flex;
+    justify-content: flex-end;
+}
+
+figcaption span {
+    color: #777;
+    font-size: 2em;
+}
+
+figcaption a {
+    color: #333;
+    font-size: 2em;
+}
+figcaption img{margin:10px;
+
+}
+{
+    border: 1px solid green;
+}
+/*ask jason about crabcore*/
+777 333
