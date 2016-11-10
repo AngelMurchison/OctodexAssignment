@@ -44,7 +44,7 @@ ul.topnav {
 }
 
 li {
-    padding: 0.9em;
+    padding: 1em;
 }
 
 a:link {
@@ -107,12 +107,12 @@ figure {
 
 figcaption span {
     color: #777;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 figcaption a {
     color: #333;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 figcaption img{margin:10px;
 
@@ -121,4 +121,3 @@ figcaption img{margin:10px;
     border: 1px solid green;
 }
 /*ask jason about crabcore*/
-777 333
