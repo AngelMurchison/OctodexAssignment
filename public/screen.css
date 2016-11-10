@@ -114,9 +114,11 @@ figcaption a {
     color: #333;
     font-size: 1.5em;
 }
-figcaption img{margin:10px;
 
+figcaption img {
+    margin: 10px;
 }
+
 {
     border: 1px solid green;
 }
