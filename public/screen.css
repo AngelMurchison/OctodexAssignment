@@ -17,11 +17,11 @@ header {
 }
 
 .headerassets {
-    background-color: lightgrey;
+    background-color: #f3f3f3;
     display: flex;
     flex-direction: row;
     align-items: center;
-    min-height: 3em;
+    min-height: 4em;
 }
 
 .center {
